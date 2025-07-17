@@ -1,0 +1,17 @@
+name: elections_contributions
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python>=3.10  # greater than 3.10
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - xgboost
+  - matplotlib
+  - graphviz
+  - ipykernel
+  - pip
+  - pip:
+      - graphviz
