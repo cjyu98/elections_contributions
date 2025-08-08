@@ -1,0 +1,28 @@
+| Party                                    | Color (Hex) | Notes                                   |
+| ---------------------------------------- | ----------- | --------------------------------------- |
+| **Liberal**                              | `#D71920`   | Official bright red                     |
+| **Conservative**                         | `#1A4782`   | Official dark blue                      |
+| **New Democratic (NDP)**                 | `#F37021`   | Official orange                         |
+| **Green**                                | `#3D9B35`   | Official green                          |
+| **Bloc Québécois**                       | `#33B2CC`   | Official sky blue                       |
+| **Independent**                          | `#6A5ACD`   | Slate blue — distinct and neutral       |
+| **No Affiliation**                       | `#BC8F8F`   | Rosy brown — neutral and warm contrast  |
+| Accountability, Competency, Transparency | `#8B0000`   | Darker red to separate from Liberal     |
+| Alliance of the North                    | `#556B2F`   | Olive green — distinct from Green party |
+| Animal Alliance/Env Voters               | `#5CA586`   | Keep original teal — works well         |
+| Canada                                   | `#FFD700`   | Bright gold — readable and distinct     |
+| Canadian Action                          | `#9E2B2B`   | Muted red-brown — avoid pure burgundy   |
+| Christian Heritage                       | `#7B1E3A`   | Plum tone — less red than original      |
+| Communist                                | `#C30000`   | Darkened to distinguish from Liberal    |
+| Democratic Advancement                   | `#663399`   | Medium purple (like rebranded bridge)   |
+| Forces et démocratie                     | `#27408B`   | Navy tone to avoid Conservative clash   |
+| Libertarian                              | `#FFD700`   | Keep goldenrod — works well             |
+| Marijuana                                | `#A67C52`   | Tan — warm neutral                      |
+| Marxist-Leninist                         | `#B22222`   | Firebrick — distinguish from Communist  |
+| Pirate                                   | `#9400D3`   | Vivid purple — stands out well          |
+| Progressive Canadian                     | `#4682B4`   | Steel blue — distinct from Cons         |
+| Rhinoceros                               | `#8B4513`   | Saddle brown — playful and distinct     |
+| Seniors                                  | `#708090`   | Slate gray — readable fallback          |
+| The Bridge                               | `#3B3999`   | Keep original indigo                    |
+| United                                   | `#E0AC00`   | Warm gold (brighter than Libertarian)   |
+
